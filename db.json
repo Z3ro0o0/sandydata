@@ -255,6 +255,171 @@
           "comment": "Tell me more about the environmental science program."
         }
       ]
+    },
+    {
+      "id": "5",
+      "name": "Liceo de Cagayan University",
+      "description": "The Liceo de Cagayan University (LDCU) is a private non-sectarian basic and higher education institution in Cagayan de Oro, Philippines. It was founded in 1955 by Rodolfo N. Pelaez of Cagayan de Oro and his wife Elsa P. Pelaez of Cebu City.",
+      "courses": [
+        {
+          "courseid": "1",
+          "course": "BS in Nursing",
+          "topics": [
+            {
+              "topicname": "Nursing Fundamentals",
+              "topicdescription": "Understanding the foundational principles and practices of nursing.",
+              "littleinformation": "Learning essential nursing skills and knowledge."
+            },
+            {
+              "topicname": "Patient Care",
+              "topicdescription": "Providing hands-on and compassionate care to patients in various healthcare settings.",
+              "littleinformation": "Developing skills in providing effective patient care."
+            }
+          ]
+        },
+        {
+          "courseid": "2",
+          "course": "BS in Accountancy",
+          "topics": [
+            {
+              "topicname": "Accounting Principles",
+              "topicdescription": "Grasping the fundamental principles that govern accounting practices.",
+              "littleinformation": "Understanding fundamental accounting principles."
+            },
+            {
+              "topicname": "Financial Auditing",
+              "topicdescription": "Conducting thorough examinations of financial records to ensure accuracy and compliance.",
+              "littleinformation": "Performing financial audits for accuracy and compliance."
+            }
+          ]
+        }
+      ],
+      "image": "https://philippine-trivia.com/sites/default/files/images/liceo-de-cagayan.jpg",
+      "logo": "https://www.pacu.org.ph/wordpress/wp-content/uploads/2017/05/Liceo-De-Cagayan-University.png",
+      "comments": [
+        {
+          "username": "user1",
+          "comment": "Excited to explore the campus!"
+        },
+        {
+          "username": "user2",
+          "comment": "What clubs and organizations are available?"
+        },
+        {
+          "username": "user3",
+          "comment": "The facilities seem top-notch."
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Lourdes College",
+      "description": "Lourdes College Cagayan de Oro City is a private, Roman Catholic basic and higher education institution managed by the Congregation of the Religious of the Virgin Mary in Cagayan de Oro City, Misamis Oriental, Philippines.",
+      "courses": [
+        {
+          "courseid": "1",
+          "course": "BS in Psychology",
+          "topics": [
+            {
+              "topicname": "Psychology Fundamentals",
+              "topicdescription": "Exploring the basic principles and theories of psychology and human behavior.",
+              "littleinformation": "Exploring the basics of psychology and human behavior."
+            },
+            {
+              "topicname": "Counseling Techniques",
+              "topicdescription": "Learning effective counseling techniques and strategies for psychological support.",
+              "littleinformation": "Learning effective counseling techniques and skills."
+            }
+          ]
+        },
+        {
+          "courseid": "2",
+          "course": "BS in Mass Communication",
+          "topics": [
+            {
+              "topicname": "Media Ethics",
+              "topicdescription": "Understanding the ethical considerations and responsibilities in media production.",
+              "littleinformation": "Understanding ethical considerations in media production."
+            },
+            {
+              "topicname": "Journalistic Writing",
+              "topicdescription": "Developing skills in writing for journalism and effective communication.",
+              "littleinformation": "Developing skills in writing for journalism."
+            }
+          ]
+        }
+      ],
+      "image": "https://scontent.fcgm1-1.fna.fbcdn.net/v/t39.30808-6/217410306_2979415232377577_4966805999427734101_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=783fdb&_nc_ohc=ShnWNpV3BUEAX_CbuDX&_nc_ht=scontent.fcgm1-1.fna&oh=00_AfD7csJHB6AdVhVLhhHrvf_qYncTyeqIFdPowDWfHFt0ag&oe=65902516",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/5/55/Lourdes_College_official_seal.png",
+      "comments": [
+        {
+          "username": "user1",
+          "comment": "Applying soon, wish me luck!"
+        },
+        {
+          "username": "user2",
+          "comment": "How's the student life here?"
+        },
+        {
+          "username": "user3",
+          "comment": "Any tips for the application essay?"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Southern de Oro Philippines College",
+      "description": "Southern de Oro Philippines College is a private domestic corporation, non-sectarian and co-educational institution.",
+      "courses": [
+        {
+          "courseid": "1",
+          "course": "BS in Hospitality Management",
+          "topics": [
+            {
+              "topicname": "Hospitality Industry Trends",
+              "topicdescription": "Exploring the latest trends and developments in the hospitality industry.",
+              "littleinformation": "Exploring current trends in the hospitality industry."
+            },
+            {
+              "topicname": "Customer Service Excellence",
+              "topicdescription": "Developing skills for providing exceptional customer service in the hospitality sector.",
+              "littleinformation": "Developing skills for providing excellent customer service."
+            }
+          ]
+        },
+        {
+          "courseid": "2",
+          "course": "BS in Tourism Management",
+          "topics": [
+            {
+              "topicname": "Tourism Marketing",
+              "topicdescription": "Understanding marketing strategies and techniques in the tourism industry.",
+              "littleinformation": "Understanding marketing strategies in the tourism industry."
+            },
+            {
+              "topicname": "Cultural Tourism",
+              "topicdescription": "Exploring the intersection of culture and tourism in the global context.",
+              "littleinformation": "Exploring the intersection of culture and tourism."
+            }
+          ]
+        }
+      ],
+      "image": "https://4.bp.blogspot.com/-cAzxJkTR8pg/UYs3vF09krI/AAAAAAAAAGg/TbfaDILzdPc/s1600/southernphilcollege.jpg",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c3/SPC.jpg",
+      "comments": [
+        {
+          "username": "user1",
+          "comment": "The diversity on campus is appealing."
+        },
+        {
+          "username": "user2",
+          "comment": "Are there opportunities for research projects?"
+        },
+        {
+          "username": "user3",
+          "comment": "What's the acceptance rate?"
+        }
+      ]
     }
   ]
 }
